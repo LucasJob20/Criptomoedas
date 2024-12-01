@@ -1,4 +1,5 @@
-#Consumo de API da CoinGecko com Diferentes Abordagens
+##Consumo de API da CoinGecko com Diferentes Abordagens
+
 Este projeto demonstra o consumo de dados da API pública da CoinGecko para obter informações das 10 principais criptomoedas em termos de capitalização de mercado. O objetivo é explorar diferentes abordagens para trabalhar com requisições HTTP e manipulação de dados no JavaScript.
 
 Abordagens Utilizadas
